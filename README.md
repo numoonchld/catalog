@@ -1,1 +1,1 @@
-Project for Udacity's class [Full-Stack Foundations](https://classroom.udacity.com/courses/ud088){: target="blank"}
+Project for Udacity's class <a href="https://classroom.udacity.com/courses/ud088" target="blank">Full-Stack Foundations</a>
